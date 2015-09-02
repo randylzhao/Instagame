@@ -1,0 +1,2 @@
+Functions need to be implemented:
+getline: takes 2d array of pixels representing points of lines and return an array of lines
